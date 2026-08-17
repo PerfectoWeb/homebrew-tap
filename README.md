@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍺 PerfectoWeb tap
+# 🍺 PerfectoWeb//tap
 
 **Homebrew casks for PerfectoWeb's macOS apps.**
 
@@ -121,11 +121,11 @@ Not everything is a Mac app, so not everything is here. The rest:
 
 | Project | What it is |
 | :--- | :--- |
-| [PocketLab](https://github.com/PerfectoWeb/flipper-pocketlab)&nbsp;&nbsp;&nbsp;&nbsp; | A native Flipper Zero app that teaches the device's own features in bite-sized interactive lessons |
+| [Flipper&nbsp;Zero:&nbsp;PocketLab](https://github.com/PerfectoWeb/flipper-pocketlab) | A native Flipper Zero app that teaches the device's own features in bite-sized interactive lessons |
 | [IBM&nbsp;VFD&nbsp;Display](https://github.com/PerfectoWeb/IBM-VFD-Display-ESP32-S3) | An ESP32-S3 driving a Futaba / IBM 20x2 vacuum fluorescent customer display |
-| [Perfect&nbsp;Dark&nbsp;for&nbsp;Nova](https://github.com/PerfectoWeb/nova-perfectdark-theme) | An easy-on-the-eyes dark theme for Panic's Nova editor |
-| [Favicon&nbsp;Clip](https://github.com/PerfectoWeb/nova-favicon-clip) | Generates the whole favicon tag set for every platform, from Nova |
-| [Lorem&nbsp;Clip](https://github.com/PerfectoWeb/nova-lorem-clip) | Lorem ipsum without leaving the editor |
+| [Nova:&nbsp;Perfect&nbsp;Dark](https://github.com/PerfectoWeb/nova-perfectdark-theme) | An easy-on-the-eyes dark theme for Panic's Nova editor |
+| [Nova:&nbsp;Favicon&nbsp;Clip](https://github.com/PerfectoWeb/nova-favicon-clip) | Generates the whole favicon tag set for every platform, from Nova |
+| [Nova:&nbsp;Lorem&nbsp;Clip](https://github.com/PerfectoWeb/nova-lorem-clip) | Lorem ipsum without leaving the editor |
 
 <br>
 
