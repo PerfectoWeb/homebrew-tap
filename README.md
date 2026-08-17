@@ -129,6 +129,16 @@ Not everything is a Mac app, so not everything is here. The rest:
 
 <br>
 
+## 📄 Licence
+
+The **cask files in this repository are MIT**. Copy them, fork them, base your own
+tap on them.
+
+That covers the packaging and nothing else. **Each app keeps its own licence**,
+and they are not all the same: Gibson is MIT, and Belay is source-available under
+terms that forbid selling it. A cask is a recipe for fetching something, not a
+grant of rights to the something.
+
 ## 🐞 Reporting something
 
 A problem with an **app** belongs in that app's own repository, where the code
