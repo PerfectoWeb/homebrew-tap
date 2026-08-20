@@ -1,6 +1,6 @@
 cask "belay" do
-  version "1.3.1"
-  sha256 "8dd6a33638f53cbc63b226a0b63ec7f771ba9c101142ae94b59360835788dc07"
+  version "1.3.2"
+  sha256 "bf7deda8b1753254f6eef256b17c3e45fc9eae990090081e4d52189d257b784d"
 
   url "https://github.com/PerfectoWeb/Belay/releases/download/v#{version}/Belay-#{version}.dmg",
       verified: "github.com/PerfectoWeb/Belay/"
